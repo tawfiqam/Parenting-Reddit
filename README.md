@@ -13,5 +13,5 @@ LDA heatmap_Final shows how we created heatmaps of select topic scores throughou
 
 ![alt text](http://www-personal.umich.edu/~tawfiqam/LDATopicHeatExample.png)
 
-If you'd like to read the full paper, you can find it [here](http://www-personal.umich.edu/~tawfiqam/Ammari_Reddit_Parenting_CHI_2018.pdf).
+If you'd like to know more about our research, you can find our paper [here](http://www-personal.umich.edu/~tawfiqam/Ammari_Reddit_Parenting_CHI_2018.pdf).
 
