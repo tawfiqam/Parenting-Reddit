@@ -13,7 +13,7 @@ The code also shows how jaccard similarity was calculated for each of the subred
 
 LDA heatmap_Final shows how we created heatmaps of select topic scores throughout all three subreddits. Following is an example:
 
-![alt text](http://www-personal.umich.edu/~tawfiqam/LDATopicHeatExample.png)
+![alt text](http://www-personal.umich.edu/~tawfiqam/LDATopicHeatExampleNew.png)
 
 If you'd like to know more about our research, you can find our paper [here](http://www-personal.umich.edu/~tawfiqam/Ammari_Reddit_Parenting_CHI_2018.pdf).
 
