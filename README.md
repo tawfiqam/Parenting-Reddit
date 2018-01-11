@@ -1,7 +1,7 @@
 # Pseudonymous Parents: Comparing Parenting Roles and Identities on the Mommit and Daddit Subreddits
-This repository contains the code used in our analysis of Parenting subreddits. In our CHI paper, we used unsupervised machine learning techniques - namely, Latent Dirichlet Analysis (LDA) and Word2Vec. 
+This repository contains the code used in our analysis of Parenting subreddits. In our CHI paper, we used unsupervised machine learning techniques - namely, Latent Dirichlet Analysis (LDA) and Word2Vec to explore the topics parents discuss on Reddit and the differences between mother-centric and father-centric subreddits. 
 
-The following figure shows how we trained an LDA model for the aggregated model of r/Parenting, r/Mommit and r/Daddit as well as independent LDA models for r/Daddit and r/Mommit. In addition, independent Word2Vec models for r/Mommit and r/Daddit was trained to differentiate similar topics discussed by users of the two subreddits. 
+The following figure shows how we trained an LDA model for the aggregated model of [r/Parenting](https://www.reddit.com/r/Parenting/), [r/Mommit](https://www.reddit.com/r/Mommit/) and [r/Daddit](https://www.reddit.com/r/daddit/) as well as independent LDA models for r/Daddit and r/Mommit. In addition, independent Word2Vec models for r/Mommit and r/Daddit was trained to differentiate similar topics discussed by users of the two subreddits. 
 
 ![alt text](http://www-personal.umich.edu/~tawfiqam/ParentingLDAWord2vecFigure.png)
 
